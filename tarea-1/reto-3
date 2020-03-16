@@ -1,0 +1,13 @@
+##Reto 3: if statement 
+
+'''javascript
+const fruit = 'orange' //variable definida
+
+if (fruit.lenght=5) {
+	console.log('The fruit name has more than five characters')
+} else {
+	console.log('The fruit name has five characters or less.')
+}
+
+javasripting verify if-statement.js
+'''
