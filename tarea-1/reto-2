@@ -1,0 +1,9 @@
+##Reto 2: Accediendo valores (array)
+
+'''javascript
+const food = ['apple', 'pizza', 'pear']
+
+console.log(food[1])
+
+javascripting verify accediendo-valores-array.js
+'''
