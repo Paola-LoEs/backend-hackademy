@@ -1,0 +1,9 @@
+## Reto 1: Variables
+
+''' javascript
+const example = 'some string'
+
+console.log(example)
+
+javascripting verify variables.js
+'''
